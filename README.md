@@ -1,3 +1,3 @@
 # Experiment
-This is Experimental Repository to try new feature. Goal - to learn Git and GitHub
+This is Experimental Repository to try new feature. Goal - to learn Git and GitHub.
 Author Anish
